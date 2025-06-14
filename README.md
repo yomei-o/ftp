@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-You need to have gcc and make in your PATH.
+You need to have g++, gcc, make and cmake in your PATH.
 ```
 
 ### Installing
