@@ -2,7 +2,7 @@
 
 FTP server and client following standards in ***RFC 959***. 
 
-Based on GlenGGG'FTP.
+Based on GlenGGG' FTP.
 
 https://github.com/GlenGGG/FTP/blob/master/readme.md
 
