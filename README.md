@@ -4,7 +4,7 @@ FTP server and client following standards in ***RFC 959***.
 
 Based on GlenGGG' FTP.
 
-https://github.com/GlenGGG/FTP/blob/master/readme.md
+https://github.com/GlenGGG/FTP
 
 Support active and passive connection mode. 
 
@@ -31,7 +31,7 @@ You need to have g++, gcc, make and cmake in your PATH.
 Clone this repository.
 
 ```
-git clone https://github.com/GlenGGG/FTP.git
+git clone https://github.com/yomei-o/ftp.git
 cd FTP
 ```
 
