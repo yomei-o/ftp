@@ -44,7 +44,8 @@ cd build
 cmake ..
 make
 
-cd ../ftp-server
+cd ../..
+cd ftp-server
 mkdir build
 cd build
 cmake ..
