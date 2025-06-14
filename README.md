@@ -6,6 +6,7 @@ https://github.com/GlenGGG/FTP/blob/master/readme.md
 
 Support active and passive connection mode. Developed for Linux system, MacOS an Windows.
 Has connectivity with Windows ftp client and WinSCP.
+Compiled with Visual Stdio 2022, mingw, clang and gcc.
 
 ## Getting Started
 
