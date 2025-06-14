@@ -71,8 +71,7 @@ sudo ./client [server ip] [server command port]
 | user [username]                    | login as [username]                             |
 | pass                               | enter password                                  |
 | pwd                                | print current working directory                 |
-| lis or ls                          | list directory                                  |
-| list                               | list directory                                  |
+| list or ls                         | list directory                                  |
 | cwd or cd [directory]              | change directory                                |
 | retr or get [file path]            | get file                                        |
 | stor or put [file path]            | store file                                      |
