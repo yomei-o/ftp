@@ -71,11 +71,11 @@ sudo ./client [server ip] [server command port]
 | user [username]                    | login as [username]                             |
 | pass                               | enter password                                  |
 | pwd                                | print current working directory                 |
-| list                               | run 'ls -l'                                     |
-| cwd [directory]                    | change directory                                |
-| cdup                               | back to upper directory equivalent to 'cd ..'   |
-| retr [file path]                   | get file                                        |
-| stor [file path]                   | store file                                      |
+| lis or ls                          | list directory                                  |
+| list                               | list directory                                  |
+| cwd or cd [directory]              | change directory                                |
+| retr or get [file path]            | get file                                        |
+| stor or put [file path]            | store file                                      |
 | pasv                               | enter passive mode                              |
 | port [ip1,ip2,ip3,ip4,port1,port2] | enter active mode, refer to RFC 959 for details |
 
