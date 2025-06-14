@@ -41,13 +41,13 @@ Run make to build client and server.
 cd ftp-client
 mkdir build
 cd build
-cmake
+cmake ..
 make
 
 cd ../ftp-server
 mkdir build
 cd build
-cmake
+cmake ..
 make
 ```
 ### Usage
