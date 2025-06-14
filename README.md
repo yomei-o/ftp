@@ -32,7 +32,7 @@ Clone this repository.
 
 ```
 git clone https://github.com/yomei-o/ftp.git
-cd FTP
+cd ftp
 ```
 
 Run make to build client and server.
