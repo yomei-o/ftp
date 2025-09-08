@@ -21,6 +21,7 @@
 # define REQUEST_END_L "\n"
 
 # define DB_USERNAME "anonymous"
+# define DB_USERNAME2 "ftp"
 # define DB_PASS ""
 
 
