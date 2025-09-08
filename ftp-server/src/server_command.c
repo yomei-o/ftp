@@ -141,7 +141,7 @@ int server_command_user(t_client_info* client_info, char* argument)
 
 static int server_command_pass_fake_db_call(char* username, char* password)
 {
-    if (strcasecmp(username, DB_USERNAME) != 0)
+    if (strcasecmp(username, DB_USERNAME) != 0 && strcasecmp(username, DB_USERNAME2) != 0)
         return (1);
     return (0);
 }
